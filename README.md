@@ -11,11 +11,11 @@
 📫 How to reach me: <a href="https://www.facebook.com/BlaceNovaInc/">BlaceNova Inc.</a> &nbsp; <a href="https://www.instagram.com/kanishk010199/">Instagram</a> &nbsp; <a href="https://www.instagram.com/kanishk010199/">Linkedn</a><br>
 Connect with me:<br>
 <a href="https://www.facebook.com/BlaceNovaInc/">BlaceNova Inc.</a> | <a href="https://blacenova.wordpress.com/">Blogs</a> |<br>
-Download Our Apps from: <a href="https://play.google.com/store/apps/details?id=com.androwebios.tic_tac&hl=en_IN">&nbsp;Play Store</a> <br>
-<a href="https://play.google.com/store/apps/details?id=com.androwebios.tic_tac&hl=en_IN">Tic-Tac-Toe</a> <br>
-<a href="https://play.google.com/store/apps/details?id=com.androwebios.colors&hl=en_IN">UI Color PIcker App</a> <br>
-Get Some Cool UI Colors specially designed for developers & passionate designers: 
-<a href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a>
+### Download Our Apps from: <a style="font-weight:bold;" href="https://play.google.com/store/apps/details?id=com.androwebios.tic_tac&hl=en_IN">&nbsp;Play Store</a> <br>
+### <a style="font-weight:bold;" href="https://play.google.com/store/apps/details?id=com.androwebios.tic_tac&hl=en_IN">Tic-Tac-Toe</a> <br>
+### <a style="font-weight:bold;" href="https://play.google.com/store/apps/details?id=com.androwebios.colors&hl=en_IN">UI Color PIcker App</a> <br>
+### Get Some Cool UI Colors specially designed for developers & passionate designers: 
+### <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a>
 
 😄 Pronouns: He/His...<br>
 ⚡ Fun fact: I spend almost 12 hours in designing things everyday...<br>
