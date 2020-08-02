@@ -11,6 +11,8 @@ Connect with me:<br>
 <a href="https://www.facebook.com/BlaceNovaInc/">BlaceNova Inc.</a> | <a href="https://blacenova.wordpress.com/">Blogs</a> |<br>
 Download Our Apps:<br>
 <a href="https://play.google.com/store/apps/details?id=com.androwebios.tic_tac&hl=en_IN">Play Store</a> <br>
+<a href="https://play.google.com/store/apps/details?id=com.androwebios.tic_tac&hl=en_IN">Tic-Tac-Toe</a> <br>
+<a href="https://play.google.com/store/apps/details?id=com.androwebios.colors&hl=en_IN">UI Color PIcker App</a> <br>
 Get Some Cool UI Colors specially designed for developers & passionate designers: 
 <a href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a>
 
