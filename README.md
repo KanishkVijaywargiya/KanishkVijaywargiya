@@ -22,7 +22,7 @@ Connect with me:<br>
 
 
 ### Languages and Tools:
-Android | iOS | Visual Studio Code | XCode | HTML5 | CSS3 | Sass | JavaScript | ReactNative | FireBase | MongoDB | GitHub | NodeJS | C# | Unity | Game Development |
+Android | iOS | Visual Studio Code | XCode | HTML5 | CSS3 | Sass | JavaScript | ReactNative | FireBase | MongoDB | GitHub | NodeJS | C# | Unity | Game Development | Heroku | ContentFull | Netlify | 
 ### Designing and Tools:
 Adobe XD | Sketch |
 
