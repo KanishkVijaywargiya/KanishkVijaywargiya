@@ -4,11 +4,13 @@
 👯 I’m looking to collaborate on Youtube.<br>
 🤔 I'll be providing best quality websites and apps at <a href="https://www.facebook.com/BlaceNovaInc/">BlaceNova Inc.</a><br>
 💬 Ask me about React Native, Redux, NodeJS, MongoDB, C# Unity or any tech related stuff.<br>
-📫 How to reach me: <a href="https://www.facebook.com/BlaceNovaInc/">BlaceNova Inc.</a> &nbsp; <a href="https://www.instagram.com/kanishk010199/">Instagram</a> <a href="https://www.instagram.com/kanishk010199/">Linkedn</a>
-😄 Pronouns: He/His...
-⚡ Fun fact: I spend almost 12 hours in designing things everyday...
+📫 How to reach me: <a href="https://www.facebook.com/BlaceNovaInc/">BlaceNova Inc.</a> &nbsp; <a href="https://www.instagram.com/kanishk010199/">Instagram</a> &nbsp; <a href="https://www.instagram.com/kanishk010199/">Linkedn</a><br>
+😄 Pronouns: He/His...<br>
+⚡ Fun fact: I spend almost 12 hours in designing things everyday...<br>
 
-<img src="https://p73.f4.n0.cdn.getcloudapp.com/items/Blu5y50w/react%20native%20logo.png?v=6f964a6472a37e02867e1bd9bd477109">
+<p style="font-weight:bold; color:#121212">Languages & Tools:</p>
+<img src="https://p73.f4.n0.cdn.getcloudapp.com/items/RBuO1OPG/a.png?v=94a2afdf5adee19f494a4566e7208937">
+<img src="https://p73.f4.n0.cdn.getcloudapp.com/items/Blu5y50w/react%20native%20logo.png?v=6f964a6472a37e02867e1bd9bd477109"><br>
 
 <!--
 **KanishkVijaywargiya/KanishkVijaywargiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
