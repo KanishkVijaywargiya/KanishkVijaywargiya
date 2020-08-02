@@ -30,3 +30,6 @@ Adobe XD | Sketch |
 ### <a style="font-weight:bold;" href="https://blacenova.wordpress.com/blog-2/">Ring Progress Circle: Create an Apple Watch-like using trim, stroke and rotation in Swift UI.</a><br>
 ### <a style="font-weight:bold;text-decoration:none;color:#121212;" href="https://blacenova.wordpress.com/blog-2/">React Native Transitions - React Native</a><br>
 ### <a style="font-weight:bold;text-decoration:none;color:#121212;" href="https://blacenova.wordpress.com/blog-2/">SVG / Gif in React native - Scalable Vector Graphics in React Native</a><br>
+
+
+<img src="https://p73.f4.n0.cdn.getcloudapp.com/items/4gu9D9rb/logo.png?v=3cc33f3da928e405afdd2983580e9322"><br>
