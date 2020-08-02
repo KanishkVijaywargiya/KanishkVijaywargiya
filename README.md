@@ -14,8 +14,7 @@ Connect with me:<br>
 ### Download Our Apps from: <a style="font-weight:bold;" href="https://play.google.com/store/apps/details?id=com.androwebios.tic_tac&hl=en_IN">&nbsp;Play Store</a> <br>
 ### <a style="font-weight:bold;" href="https://play.google.com/store/apps/details?id=com.androwebios.tic_tac&hl=en_IN">Tic-Tac-Toe</a> <br>
 ### <a style="font-weight:bold;" href="https://play.google.com/store/apps/details?id=com.androwebios.colors&hl=en_IN">UI Color PIcker App</a> <br>
-### Get Some Cool UI Colors specially designed for developers & passionate designers: 
-### <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a>
+### Get Some Cool UI Colors specially designed for developers & passionate designers: <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a><br>
 
 😄 Pronouns: He/His...<br>
 ⚡ Fun fact: I spend almost 12 hours in designing things everyday...<br>
