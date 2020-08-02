@@ -21,8 +21,10 @@ Connect with me:<br>
 <img src="https://p73.f4.n0.cdn.getcloudapp.com/items/Blu5y50w/react%20native%20logo.png?v=6f964a6472a37e02867e1bd9bd477109"><br>
 
 
-Languages and Tools:
-Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubHTML5
+### Languages and Tools:
+Visual Studio Code | HTML5 | CSS3 | Sass | JavaScript | ReactNative | FireBase | MongoDB | GitHub | NodeJS | C# | Unity | Game Development |
+### Designing and Tools:
+Adobe XD | Sketch |
 
 ### 📕 Latest <a href="https://blacenova.wordpress.com/blog-2/">Blogs</a> Posts<br>
 ### <a style="font-weight:bold;" href="https://blacenova.wordpress.com/blog-2/">Ring Progress Circle: Create an Apple Watch-like using trim, stroke and rotation in Swift UI.</a><br>
