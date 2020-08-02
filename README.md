@@ -2,7 +2,7 @@
 ### I'm a MERN Stack Developer, and Passionate Designer!
 ### Get Some Cool UI Colors specially designed for developers & passionate designers: <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a><br>
 
-### In this pandemic time We have developed an applications under <p style="font-weight:bold;color:#E83350;">Atma Nirbhar Bharat</p> which are really very usefull for new farmers and the ones who wants to grow crops in their houses.
+<p style="font-weight:bold;">In this pandemic time We have developed an applications under<p style="font-weight:bold;color:#E83350;">Atma Nirbhar Bharat</p> which are really very usefull for new farmers and the ones who wants to grow crops in their houses.</p>
 
 🔭 I’m currently working on <a href="https://blacenova.wordpress.com/blog-2/">React Native</a>.<br>
 🌱 I’m currently learning Game Development using C# Unity<br>
