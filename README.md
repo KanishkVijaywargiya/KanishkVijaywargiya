@@ -7,9 +7,6 @@
 📫 How to reach me: <a href="https://www.facebook.com/BlaceNovaInc/">BlaceNova Inc.</a> &nbsp; <a href="https://www.instagram.com/kanishk010199/">Instagram</a> &nbsp; <a href="https://www.instagram.com/kanishk010199/">Linkedn</a><br>
 😄 Pronouns: He/His...<br>
 ⚡ Fun fact: I spend almost 12 hours in designing things everyday...<br>
-
-<p style="font-weight:bold; color:#121212">Languages & Tools:</p>
-<img style="width:30px;height:30px" src="https://p73.f4.n0.cdn.getcloudapp.com/items/RBuO1OPG/a.png?v=94a2afdf5adee19f494a4566e7208937">
 <img src="https://p73.f4.n0.cdn.getcloudapp.com/items/Blu5y50w/react%20native%20logo.png?v=6f964a6472a37e02867e1bd9bd477109"><br>
 
 <!--
