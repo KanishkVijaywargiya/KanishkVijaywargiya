@@ -23,13 +23,6 @@ Languages and Tools:
 Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubHTML5
 
 📕 Latest <a href="https://blacenova.wordpress.com/blog-2/">Blog</a> Posts
-<p>Ring Progress Circle: Create an Apple Watch-like using trim, stroke and rotation in Swift UI.<br>
-Combine & Edit Data - Advanced interactions like swipe to delete and edit mode come for free with NavigationView in Swift UI.<br>
-Navigation Style & Passing Data - Swift UI<br>
-Navigation View & List - The NavigationView is preloaded with a ton of features that make list layouts extremely easy to create and add navigation items like a dynamic Large Title, NavBar buttons, List styles in Swift UI.<br>
-Modal Presentation - Swift UI<br>
-Gestures and Events - State Just like animation states, the drag state...<br>
-Animations and States - Swift UI<br>
-Components and Visual Effects in SwiftUI<br>
-React Native Transitions - React Native<br>
-SVG / Gif in React native - Scalable Vector Graphics in React Native <br>
+###<a style="font-weight:bold;" href="https://blacenova.wordpress.com/blog-2/">Ring Progress Circle: Create an Apple Watch-like using trim, stroke and rotation in Swift UI.</a><br>
+###<a style="font-weight:bold;" href="https://blacenova.wordpress.com/blog-2/">React Native Transitions - React Native</a><br>
+###<a style="font-weight:bold;" href="https://blacenova.wordpress.com/blog-2/">SVG / Gif in React native - Scalable Vector Graphics in React Native</a><br>
