@@ -1,5 +1,8 @@
 ### Hola, I'm <a href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">Kanishk Vijaywargiya!</a> 👋
 ### I'm a MERN Stack Developer, and Passionate Designer!
+### Get Some Cool UI Colors specially designed for developers & passionate designers: 
+### <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a>
+
 🔭 I’m currently working on <a href="https://blacenova.wordpress.com/blog-2/">React Native</a>.<br>
 🌱 I’m currently learning Game Development using C# Unity<br>
 🥅 2020 Goals: Contribute to create much interesting projects which makes life easier.<br>
