@@ -18,6 +18,9 @@ Connect with me:<br>
 ### <a style="font-weight:bold;" href="https://play.google.com/store/apps/details?id=com.androwebios.colors&hl=en_IN">UI Color PIcker App</a> <br>
 ### Get Some Cool UI Colors specially designed for developers & passionate designers: <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a><br>
 
+![morph_svg](https://user-images.githubusercontent.com/43451046/93579605-4ed57000-f9bc-11ea-853d-7a225cf72c02.gif)
+
+
 😄 Pronouns: He/His...<br>
 ⚡ Fun fact: I spend almost 12 hours in designing things everyday...<br>
 <img src="https://p73.f4.n0.cdn.getcloudapp.com/items/Blu5y50w/react%20native%20logo.png?v=6f964a6472a37e02867e1bd9bd477109"><br>
