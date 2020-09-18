@@ -18,7 +18,7 @@ Connect with me:<br>
 ### <a style="font-weight:bold;" href="https://play.google.com/store/apps/details?id=com.androwebios.colors&hl=en_IN">UI Color PIcker App</a> <br>
 ### Get Some Cool UI Colors specially designed for developers & passionate designers: <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a><br>
 
-### Please Rate my profile & all the apps on play store and follow the blog
+### Please Rate & do follow my profile & all the apps on play store and follow the blog
 ![morph_svg](https://user-images.githubusercontent.com/43451046/93579605-4ed57000-f9bc-11ea-853d-7a225cf72c02.gif)
 
 
