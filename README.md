@@ -1,6 +1,6 @@
 ### Hola, I'm <a href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">Kanishk Vijaywargiya!</a> 👋
 ### I'm an iOS Engineer, and Passionate Designer!
-### i work on tech Stacks: SwiftUI, React Native, MERN [MongoDB, Express JS, ReactJs, NodeJS], firebase
+### I work on tech Stacks: SwiftUI, React Native, MERN [MongoDB, Express JS, ReactJs, NodeJS], firebase
 ### Get Some Cool UI Colors specially designed for developers & passionate designers: <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a><br>
 
 ### In this pandemic time We have developed an applications under Atma Nirbhar Bharat which are really very usefull for new farmers and the ones who wants to grow crops in their houses.
