@@ -1,5 +1,5 @@
 ### Hola, I'm <a href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">Kanishk Vijaywargiya!</a> 👋
-### I'm an iOS Engineer, and Passionate Designer!
+### I'm an iOS Engineer, Game Developer and Passionate Designer!
 ### I work on tech Stacks: SwiftUI, React Native, MERN [MongoDB, Express JS, ReactJs, NodeJS], firebase
 ### Get Some Cool UI Colors specially designed for developers & passionate designers: <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a><br>
 
