@@ -5,7 +5,7 @@
 
 ### In this pandemic time We have developed an applications under Atma Nirbhar Bharat which are really very usefull for new farmers and the ones who wants to grow crops in their houses.
 
-🔭 I’m currently working on <a href="https://blacenova.wordpress.com/blog-2/">React Native</a>.<br>
+🔭 I’m currently working on <a href=https://blacenova.wordpress.com/2021/01/17/first-steps-in-swift/">Swift UI & Game Development</a>.<br>
 🌱 I’m currently learning Game Development using C# Unity<br>
 🥅 2020 Goals: Contribute to create much interesting projects which makes life easier.<br>
 👯 I’m looking to collaborate on Youtube.<br>
