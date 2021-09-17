@@ -18,7 +18,7 @@ About Me 😁
 
 ♥️ Exploring new places
 
-✍🏻 I write blogs on iOS development in wordpress
+✍🏻 I write blogs on iOS development in wordpress | <a href="https://blacenova.wordpress.com/">BlaceNova Blogs</a> |
 
 💁🏻I share Insights, Apps, and Tips on iOS development in my Instagram.
   </p>
