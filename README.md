@@ -8,7 +8,7 @@ About Me 😁
 
 <ul>
 📱 iOS Developer / Freelancer
-<br>
+
 ✨ UI / UX Enthusiast
 
 📖 Open-Source Contributor
