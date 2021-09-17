@@ -7,6 +7,7 @@ Hi there 👋🏻
 About Me 😁
 
 <ul>
+  <p>
 📱 iOS Developer / Freelancer
 
 ✨ UI / UX Enthusiast
@@ -20,6 +21,7 @@ About Me 😁
 ✍🏻 I write blogs on iOS development in wordpress
 
 💁🏻I share Insights, Apps, and Tips on iOS development in my Instagram.
+  </p>
 </ul>
 
 ### Download Our Apps from: <a style="font-weight:bold;" href="https://play.google.com/store/search?q=com.blacenova&c=apps&hl=en_IN">&nbsp;Play Store</a>
