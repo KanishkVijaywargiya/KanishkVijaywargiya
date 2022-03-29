@@ -4,7 +4,7 @@ Hi there 👋🏻
 🔭 <a href="https://blacenova.wordpress.com/2021/01/17/first-steps-in-swift/">Read SwiftUI Blogs </a>
 🌱 <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a>
 
-For SwiftUI docs & projects, use this link.
+🌱 For SwiftUI docs & projects, use this link.
 <a style="font-weight:bold; color: green;" href="https://github.com/KanishkVijaywargiya/SwiftUI.readme/blob/main/README.md">SwiftUI</a>
 
 About Me 😁
