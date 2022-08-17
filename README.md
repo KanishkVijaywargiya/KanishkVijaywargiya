@@ -1,6 +1,6 @@
 Hi there 👋🏻
 
-### I'm an extremely passionate iOS Developer / React Native Developer / Front End Developer
+### I'm an extremely passionate iOS Developer / Designer / React Native Developer / Front End Developer
 🔭 <a href="https://blacenova.wordpress.com/2021/01/17/first-steps-in-swift/">Read SwiftUI Blogs </a>
 🌱 <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a>
 
