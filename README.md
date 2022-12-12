@@ -8,15 +8,15 @@ Hi there 👋🏻
 <a style="font-weight:bold; color: green;" href="https://github.com/KanishkVijaywargiya/SwiftUI.readme/blob/main/README.md">SwiftUI</a>
 
 ### Best of my iOS Works:
-FoodZap App           :- https://github.com/KanishkVijaywargiya/FoodZap/tree/Development
-QuickNotes App        :- https://github.com/KanishkVijaywargiya/ZOHO_Quick_Notes_SwiftUI/tree/development
-Crypto Tracker        :- https://github.com/KanishkVijaywargiya/SwiftUI_CryptoTracker
-Audio Book App        :- https://github.com/KanishkVijaywargiya/SwiftUI_AudioBooks
-Map App               :- https://github.com/KanishkVijaywargiya/SwiftUI-MapApp
-Learning Course App   :- https://github.com/KanishkVijaywargiya/SwiftUI_Mengto_DesignCodeUI_Clone
-Swift Package Manager :- https://github.com/KanishkVijaywargiya/PKG_NetworkMonitor
-Awesome Toast or Alert SPM package, contributed in designing only :-
-https://github.com/manasdevslopes/AwesomeToastPackage
+FoodZap App           :- https://github.com/KanishkVijaywargiya/FoodZap/tree/Development <br>
+QuickNotes App        :- https://github.com/KanishkVijaywargiya/ZOHO_Quick_Notes_SwiftUI/tree/development <br>
+Crypto Tracker        :- https://github.com/KanishkVijaywargiya/SwiftUI_CryptoTracker <br>
+Audio Book App        :- https://github.com/KanishkVijaywargiya/SwiftUI_AudioBooks <br>
+Map App               :- https://github.com/KanishkVijaywargiya/SwiftUI-MapApp <br>
+Learning Course App   :- https://github.com/KanishkVijaywargiya/SwiftUI_Mengto_DesignCodeUI_Clone <br>
+Swift Package Manager :- https://github.com/KanishkVijaywargiya/PKG_NetworkMonitor <br>
+Awesome Toast or Alert SPM package, contributed in designing only :- <br>
+https://github.com/manasdevslopes/AwesomeToastPackage <br>
 
 About Me 😁
 
