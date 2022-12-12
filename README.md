@@ -11,13 +11,11 @@ About Me 😁
 
 <ul>
   <p>
-📱 iOS Developer / Freelancer
+📱 iOS Developer
 
 ✨ UI / UX Enthusiast
 
 📖 Open-Source Contributor
-
-💻 One line of code at a time
 
 ♥️ Exploring new places
 
@@ -27,7 +25,7 @@ About Me 😁
   </p>
 </ul>
 
-### Download Our Apps from: <a style="font-weight:bold;" href="https://play.google.com/store/search?q=com.blacenova&c=apps&hl=en_IN">&nbsp;Play Store</a>
+<!-- ### Download Our Apps from: <a style="font-weight:bold;" href="https://play.google.com/store/search?q=com.blacenova&c=apps&hl=en_IN">&nbsp;Play Store</a> -->
 
 <!-- ### Hola, I'm <a href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">Kanishk Vijaywargiya!</a> 👋 -->
 <!-- ### I'm an iOS Engineer, Game Developer and Passionate Designer! -->
@@ -46,14 +44,14 @@ About Me 😁
 <!-- <a href="https://www.facebook.com/BlaceNovaInc/">BlaceNova Inc.</a> | <a href="https://blacenova.wordpress.com/">Blogs</a> |<br> -->
 <!-- ### Download Our Apps from: <a style="font-weight:bold;" href="https://play.google.com/store/search?q=com.blacenova&c=apps&hl=en_IN">&nbsp;Play Store</a> -->
 
-![morph_svg](https://user-images.githubusercontent.com/43451046/93579605-4ed57000-f9bc-11ea-853d-7a225cf72c02.gif)
+<!-- ![morph_svg](https://user-images.githubusercontent.com/43451046/93579605-4ed57000-f9bc-11ea-853d-7a225cf72c02.gif) -->
 
 <!-- 😄 -->
 <!-- <img src="https://p73.f4.n0.cdn.getcloudapp.com/items/Blu5y50w/react%20native%20logo.png?v=6f964a6472a37e02867e1bd9bd477109"><br> -->
 
 
 ### Languages and Tools I worked on:
-SwiftUI | HTML5 | CSS3 | Sass | JavaScript | ReactNative | MongoDB | NodeJS | C# | XCode | iOS | Android | Visual Studio Code | FireBase | GitHub | Unity | Game Development | Heroku | ContentFull | Netlify | 
+SwiftUI | Swift | HTML5 | CSS3 | Sass | JavaScript | ReactNative | XCode | iOS | Visual Studio Code | FireBase | GitHub | Unity | Game Development | Heroku | ContentFull | Netlify | 
 ### Designing and Tools:
 Adobe XD | Sketch |
 
@@ -61,7 +59,4 @@ Adobe XD | Sketch |
 Instagram Linkedin
 
 <!-- <img src="https://p73.f4.n0.cdn.getcloudapp.com/items/4gu9D9rb/logo.png?v=3cc33f3da928e405afdd2983580e9322"><br> -->
-
-### Proud to be an Indian
-<img src="https://i.stack.imgur.com/uVAFS.gifhttp://i.stack.imgur.com/uVAFS.gif" alt="enter image description here">
 
