@@ -49,6 +49,8 @@ About Me 😁
 
  
 ### Reach me via 👇🏻
-<a href = "https://www.linkedin.com/in/kanishk-vijaywargiya-b21a98153/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3tXSrCrXtgvyqUyh_5vSOk&ust=1682080456435000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC9jJO8uP4CFQAAAAAdAAAAABAE"/> </a>
-<a href = "https://topmate.io/kanishk_vijaywargiya" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftopmate.io%2Ftry_topmate%3Futm_source%3DInternational%26utm_medium%3DClick%26utm_campaign%3DInternational&psig=AOvVaw0Qt_1hkDUjszopS8rMYRWc&ust=1682080538920000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCYhrq8uP4CFQAAAAAdAAAAABAE"/> </a>
+<p align="left"> 
+  <a href = "https://www.linkedin.com/in/kanishk-vijaywargiya-b21a98153/" target="_blank"><img      src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" width="70" height="70"/> </a>
+  <a href = "https://topmate.io/kanishk_vijaywargiya" target="_blank"><img src="https://topmate.io/_next/image?url=https%3A%2F%2Ftopmate-staging.s3.ap-south-1.amazonaws.com%2Fudpg1suHjRq3SU9U4yKFZ1.png&w=384&q=75" alt="Topmate" width="40" height="40"/> </a>
+ </p>
 
