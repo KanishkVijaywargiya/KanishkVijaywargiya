@@ -1,4 +1,6 @@
-Hi there 👋🏻
+Hi there, I'm Kanishk 👋🏻
+
+### I'm a Devops & Aws Cloud Engineer and iOS Developer !!
 
 ### I'm an extremely passionate about Cloud / DevOps / Automation / iOS Developer / Designer / iOS Native App Developer / Swift | SwiftUI
 🔭 <a href="https://blacenova.wordpress.com/2021/01/17/first-steps-in-swift/">Read SwiftUI Blogs </a>
@@ -20,54 +22,33 @@ https://github.com/manasdevslopes/AwesomeToastPackage <br>
 
 About Me 😁
 
-<ul>
-  <p>
-📱 iOS Developer
+- 🌱 I’m currently learning 🤣
+- 🥅 2023 Goals: Contribute more to Open Source projects and improve my Cloud skills
+- ⚡ Fun fact: I love designing and travelling
+- 👋 Topmate: I am Offering Great Services on Topmate for College students and working professionals
 
-✨ UI / UX Enthusiast
+### Languages and Tools:
 
-📖 Open-Source Contributor
+<p align="left"> 
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="55" height="55"/></a>
+  <a href = "https://kubernetes.io/docs" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"/> </a>
+  <a href="https://docs.docker.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/></a>
+  <a href="https://www.ansible.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"/></a>
+  <a href="https://www.jenkins.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/></a>
+  <a href="https://portal.azure.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"/></a>
+  <a href="https://prometheus.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/></a>
+<!--   <a href="https://datadog.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg"/></a> -->
+  <a href="https://terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"/></a>
+  <a href="https://www.reactjs.com"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="40" width="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">  </a><a href="https://www.admob.com/"><img src="https://www.vectorlogo.zone/logos/google_admob/google_admob-icon.svg" width="40" height="40" alt="admob"/></a> </p>
 
-♥️ Exploring new places
-
-✍🏻 I write blogs on iOS development in wordpress | <a href="https://blacenova.wordpress.com/">BlaceNova Blogs</a> |
-
-💁🏻I share Insights, Apps, and Tips on iOS development in my Instagram.
-  </p>
-</ul>
-
-<!-- ### Download Our Apps from: <a style="font-weight:bold;" href="https://play.google.com/store/search?q=com.blacenova&c=apps&hl=en_IN">&nbsp;Play Store</a> -->
-
-<!-- ### Hola, I'm <a href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">Kanishk Vijaywargiya!</a> 👋 -->
-<!-- ### I'm an iOS Engineer, Game Developer and Passionate Designer! -->
-<!-- ### I work on tech Stacks: SwiftUI, React Native, MERN [MongoDB, Express JS, ReactJs, NodeJS], firebase -->
-<!-- ### Get Some Cool UI Colors specially designed for developers & passionate designers: <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a><br> -->
-
-<!-- ### In this pandemic time We have developed an applications under Atma Nirbhar Bharat which are really very usefull for new farmers and the ones who wants to grow crops in their houses. -->
-
-<!-- 🔭 I’m currently working on <a href="https://blacenova.wordpress.com/2021/01/17/first-steps-in-swift/">Swift UI & Game Development</a>.<br> -->
-<!-- 🌱 I’m currently learning Game Development using C# Unity<br> -->
-<!-- 🥅 -->
-<!-- 👯 -->
-<!-- 🤔 -->
-<!-- 💬 -->
-<!-- 📫 -->
-<!-- <a href="https://www.facebook.com/BlaceNovaInc/">BlaceNova Inc.</a> | <a href="https://blacenova.wordpress.com/">Blogs</a> |<br> -->
-<!-- ### Download Our Apps from: <a style="font-weight:bold;" href="https://play.google.com/store/search?q=com.blacenova&c=apps&hl=en_IN">&nbsp;Play Store</a> -->
-
-<!-- ![morph_svg](https://user-images.githubusercontent.com/43451046/93579605-4ed57000-f9bc-11ea-853d-7a225cf72c02.gif) -->
-
-<!-- 😄 -->
-<!-- <img src="https://p73.f4.n0.cdn.getcloudapp.com/items/Blu5y50w/react%20native%20logo.png?v=6f964a6472a37e02867e1bd9bd477109"><br> -->
-
-
-### Languages and Tools I worked on:
-SwiftUI | Swift | SPM | HTML5 | CSS3 | Sass | JavaScript | ReactNative | XCode | iOS | Visual Studio Code | FireBase | GitHub | Unity | Game Development | Heroku | ContentFull | Netlify | 
-### Designing and Tools:
-Adobe XD | Sketch |
-
+ 
 ### Reach me via 👇🏻
-Instagram Linkedin
-
-<!-- <img src="https://p73.f4.n0.cdn.getcloudapp.com/items/4gu9D9rb/logo.png?v=3cc33f3da928e405afdd2983580e9322"><br> -->
+[linkedin]: https://www.linkedin.com/in/kanishk-vijaywargiya-b21a98153/
+[TopMate]: https://topmate.io/kanishk_vijaywargiya
 
